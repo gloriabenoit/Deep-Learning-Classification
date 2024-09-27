@@ -65,3 +65,7 @@ The data are PSSM in 400x20 format from sequences which have 10 different subcel
 
 They are divided into 1938 PSSM for training and
 training and 485 PSSM for testing.
+
+The original data can be found on the following repository:
+
+[![subcellular_localization](https://github-readme-stats.vercel.app/api/pin/?username=JJAlmagro&repo=subcellular_localization&show_owner=true)](https://github.com/JJAlmagro/subcellular_localization)
