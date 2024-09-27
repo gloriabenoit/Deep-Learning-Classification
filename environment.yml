@@ -1,0 +1,20 @@
+name: dl-class
+channels:
+    - conda-forge
+    - bioconda
+    - nodefaults
+dependencies:
+    - python
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - keras
+    - tensorflow
+    - seaborn
+    - tqdm
+    - requests
+    - jupyter
+    - pip
+    - pip:
+        - scikeras
