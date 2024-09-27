@@ -1,5 +1,5 @@
 # Neural networks for classification
-September 2024
+September 2024 (M2 BI)
 
 ## Introduction
 This project aims to use neural networks (DNN, CNN and ResNet) to classify two datasets.
